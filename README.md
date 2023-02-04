@@ -1,1 +1,4 @@
-## React Projects Starter APP
+## List of tours fetched from API
+
+- fetching data from API
+- useState
